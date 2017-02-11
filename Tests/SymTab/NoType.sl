@@ -1,0 +1,5 @@
+PROGRAM
+VAR i :INTEGER;
+VAR j : i;
+BEGIN
+END.

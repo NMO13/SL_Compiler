@@ -1,0 +1,4 @@
+PROGRAM
+BEGIN
+Method()
+END.

@@ -1,0 +1,8 @@
+PROGRAM
+	VAR i : CHAR;
+    PROCEDURE Foo() : INTEGER;
+	BEGIN
+		RETURN i;
+	END Foo;
+BEGIN
+END.

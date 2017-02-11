@@ -1,0 +1,7 @@
+PROGRAM
+	PROCEDURE foo();
+	END foo;
+	PROCEDURE foo();
+	END foo;
+BEGIN
+END.

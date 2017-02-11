@@ -1,0 +1,6 @@
+PROGRAM
+	PROCEDURE foo(VAR i : INTEGER);
+	VAR i : INTEGER;
+	END foo;
+BEGIN
+END.

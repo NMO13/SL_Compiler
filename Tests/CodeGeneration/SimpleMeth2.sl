@@ -1,0 +1,11 @@
+PROGRAM
+VAR i: INTEGER;
+	PROCEDURE Foo(x: INTEGER) : INTEGER;
+	VAR v : INTEGER;
+	BEGIN
+	  RETURN 0
+	END Foo;
+BEGIN
+	i := Foo(10);
+	Assert(i, 0);
+END.

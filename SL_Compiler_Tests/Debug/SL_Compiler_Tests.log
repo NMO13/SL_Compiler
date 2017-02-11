@@ -1,0 +1,15 @@
+﻿Build started 03.10.2013 14:38:53.
+     1>Project "C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler_Tests\SL_Compiler_Tests.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SL_Compiler_Tests.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /FC /errorReport:prompt CodeGenerationTests.cpp
+         CodeGenerationTests.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Debug\SL_Compiler_Tests.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Debug\SL_Compiler_Tests.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Debug\SL_Compiler_Tests.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\CodeGenerationTests.obj
+            Creating library C:\Martin\Uni\▄bersetzerbau2\SL-Compiler\SL_Compiler\Debug\SL_Compiler_Tests.lib and object C:\Martin\Uni\▄bersetzerbau2\SL-Compiler\SL_Compiler\Debug\SL_Compiler_Tests.exp
+         SL_Compiler_Tests.vcxproj -> C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Debug\SL_Compiler_Tests.dll
+     1>Done Building Project "C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler_Tests\SL_Compiler_Tests.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.62

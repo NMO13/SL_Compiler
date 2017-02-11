@@ -1,0 +1,16 @@
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\bin\Debug\SL_Compiler.exe.config
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\bin\Debug\SL_Compiler.exe
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\bin\Debug\SL_Compiler.pdb
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\App.g.cs
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\SL_Compiler_MarkupCompile.cache
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\SL_Compiler.g.resources
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\SL_Compiler.Properties.Resources.resources
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\SL_Compiler.csproj.GenerateResource.Cache
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\SL_Compiler.exe
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\SL_Compiler.pdb
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\MainWindow.baml
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\MainWindow.g.cs
+C:\Martin\Uni\Übersetzerbau2\SL_Compiler\SL_Compiler\bin\Debug\SL_Compiler.exe.config
+C:\Martin\Uni\Übersetzerbau2\SL_Compiler\SL_Compiler\obj\Debug\SL_Compiler.exe
+C:\Martin\Uni\Übersetzerbau2\SL_Compiler\SL_Compiler\obj\Debug\SL_Compiler.pdb
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler\obj\Debug\SL_Compiler.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+PROGRAM
+BEGIN
+Put("t");
+Put("e");
+Put("s");
+Put("t");
+Put("1");
+Put("2");
+Put("3");
+PutLn();
+END.

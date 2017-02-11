@@ -1,0 +1,16 @@
+﻿Build started 25.02.2014 21:45:38.
+     1>Project "C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Loader\Loader.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Loader.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Loader.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Loader.cpp
+         Loader.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Debug\Loader.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Debug\Loader.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Debug\Loader.lib" /MACHINE:X86 Debug\Loader.obj
+         Debug\stdafx.obj
+         Loader.vcxproj -> C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Debug\Loader.exe
+     1>Done Building Project "C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\Loader\Loader.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.21

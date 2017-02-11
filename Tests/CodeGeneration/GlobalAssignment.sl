@@ -1,0 +1,5 @@
+PROGRAM
+VAR i:INTEGER;
+BEGIN
+i := 10
+END.

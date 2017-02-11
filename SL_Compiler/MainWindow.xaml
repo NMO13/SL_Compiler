@@ -1,0 +1,15 @@
+﻿<Window x:Class="SL_Compiler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SL-Compiler" Height="1000" Width="800">
+    <DockPanel>
+        <ToolBarPanel DockPanel.Dock="Top">
+            <ToolBar>
+                <Button Click="Button_Click">Open</Button>
+                <Button Click="Button_Click_1">Compile</Button>
+            </ToolBar>
+        </ToolBarPanel>
+        <TextBox DockPanel.Dock="Bottom" Height="400" Name="OutputBox"/>
+        <TextBox TextWrapping="Wrap" AcceptsReturn="True" Name="SourceBox"/>
+    </DockPanel>
+</Window>

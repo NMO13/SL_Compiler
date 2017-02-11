@@ -1,0 +1,13 @@
+PROGRAM
+	VAR i : INTEGER;
+    PROCEDURE Foo() : INTEGER;
+	BEGIN
+		RETURN 3;
+	END Foo;
+	PROCEDURE Bar();
+	BEGIN
+	END Bar;
+BEGIN
+	i := Foo();
+    Bar();
+END.

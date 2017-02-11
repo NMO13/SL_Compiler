@@ -1,0 +1,5 @@
+PROGRAM
+	PROCEDURE foo() : INTEGER;
+	END foo;
+BEGIN
+END.

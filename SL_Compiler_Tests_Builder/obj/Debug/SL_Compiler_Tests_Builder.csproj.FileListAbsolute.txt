@@ -1,0 +1,7 @@
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler_Tests_Builder\obj\Debug\SL_Compiler_Tests_Builder.csprojResolveAssemblyReference.cache
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler_Tests_Builder\bin\Debug\SL_Compiler_Tests_Builder.dll
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler_Tests_Builder\bin\Debug\SL_Compiler_Tests_Builder.pdb
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler_Tests_Builder\bin\Debug\SL_Compiler.exe
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler_Tests_Builder\bin\Debug\SL_Compiler.pdb
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler_Tests_Builder\obj\Debug\SL_Compiler_Tests_Builder.dll
+C:\Martin\Uni\Übersetzerbau2\SL-Compiler\SL_Compiler\SL_Compiler_Tests_Builder\obj\Debug\SL_Compiler_Tests_Builder.pdb
